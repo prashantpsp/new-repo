@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/new-repo/static/css/main.ba98c91b.css",
-    "main.js": "/new-repo/static/js/main.3a1a61f9.js",
-    "static/js/787.b1ec6a5d.chunk.js": "/new-repo/static/js/787.b1ec6a5d.chunk.js",
-    "index.html": "/new-repo/index.html",
-    "main.ba98c91b.css.map": "/new-repo/static/css/main.ba98c91b.css.map",
-    "main.3a1a61f9.js.map": "/new-repo/static/js/main.3a1a61f9.js.map",
-    "787.b1ec6a5d.chunk.js.map": "/new-repo/static/js/787.b1ec6a5d.chunk.js.map"
+    "main.css": "/CRUD-react-app/static/css/main.0a95a37a.css",
+    "main.js": "/CRUD-react-app/static/js/main.2a221020.js",
+    "static/js/787.b1ec6a5d.chunk.js": "/CRUD-react-app/static/js/787.b1ec6a5d.chunk.js",
+    "index.html": "/CRUD-react-app/index.html",
+    "main.0a95a37a.css.map": "/CRUD-react-app/static/css/main.0a95a37a.css.map",
+    "main.2a221020.js.map": "/CRUD-react-app/static/js/main.2a221020.js.map",
+    "787.b1ec6a5d.chunk.js.map": "/CRUD-react-app/static/js/787.b1ec6a5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba98c91b.css",
-    "static/js/main.3a1a61f9.js"
+    "static/css/main.0a95a37a.css",
+    "static/js/main.2a221020.js"
   ]
 }
